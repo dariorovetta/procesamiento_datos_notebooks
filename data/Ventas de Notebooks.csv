@@ -1,0 +1,190 @@
+ID_VENTA,FECHA,MARCA,PRODUCTO,MARCA_PROCESADOR,SISTEMA_OPERATIVO,PRECIO,NOMBRE_CLIENTE
+VENTA_0001,2022-01-01,Dell,Inspiron 3567,Intel,Windows 10,565.0,Tiziano
+VENTA_0002,2022-01-01,Dell,Latitude 5490,Intel,Windows 10,1149.0,Charo
+VENTA_0003,2022-01-01,HP,ProBook 470,Intel,Windows 10,896.0,Tiago Nahuel
+VENTA_0004,2022-01-01,HP,ProBook 440,Intel,Windows 10,973.0,Santiago Andrés
+VENTA_0005,2022-01-01,Asus,Rog G752VS-BA171T,Intel,Windows 10,2350.0,Ramiro Nicolas
+VENTA_0006,2022-01-01,Acer,Aspire VX5-591G,Intel,Windows 10,1299.0,Joaquin Daniel
+VENTA_0007,2022-01-01,HP,15-BW091ND (A9-9420/6GB/1TB,AMD,Windows 10,650.0,Nicolas Benjamin
+VENTA_0008,2022-01-02,Dell,Inspiron 7378,Intel,Windows 10,1199.0,Constantino
+VENTA_0009,2022-01-02,Asus,ZenBook UX310UA-WB71,Intel,Windows 10,1280.0,Franco Nahuel
+VENTA_0010,2022-01-02,HP,EliteBook 840,Intel,Windows 10,1268.0,Joaquín
+VENTA_0011,2022-01-02,Lenovo,IdeaPad 310-15IKB,Intel,Windows 10,695.0,Thiago David
+VENTA_0012,2022-01-02,Dell,Latitude 5580,Intel,Windows 10,935.0,Mia Agustina
+VENTA_0013,2022-01-02,MSI,GT62VR 7RE,Intel,Windows 10,2267.86,Enzo Benjamin
+VENTA_0014,2022-01-02,Asus,Rog GL753VD-GC042T,Intel,Windows 10,1039.0,Thomas
+VENTA_0015,2022-01-02,Lenovo,V110-15ISK (3855U/4GB/500GB/W10),Intel,Windows 10,318.0,Gabriel Agustin
+VENTA_0016,2022-01-02,Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Intel,No OS,403.5,Maximiliano Ezequiel
+VENTA_0017,2022-01-03,HP,Elitebook 820,Intel,Windows 10,1335.0,Matias Benjamin
+VENTA_0018,2022-01-03,HP,Probook 640,Intel,Windows 7,1195.0,Gonzalo Gabriel
+VENTA_0019,2022-01-03,Acer,Aspire A517-51G,Intel,Windows 10,951.0,Sabrina
+VENTA_0020,2022-01-03,Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),AMD,Windows 10,469.0,Morena Agostina
+VENTA_0021,2022-01-03,Toshiba,Portege Z30-C-16J,Intel,Windows 10,1213.0,Luz Maria
+VENTA_0022,2022-01-03,Acer,Aspire 3,Intel,Windows 10,363.51,Maitena
+VENTA_0023,2022-01-04,Lenovo,IdeaPad 320-15ISK,Intel,No OS,499.0,Mateo Benjamin
+VENTA_0024,2022-01-04,HP,Pavilion 15-BC000nv,Intel,Windows 10,799.0,Araceli
+VENTA_0025,2022-01-04,Lenovo,IdeaPad 320-15IKB,Intel,Windows 10,799.0,Jeremías ezequiel
+VENTA_0026,2022-01-04,Lenovo,IdeaPad 320-15IKBN,Intel,No OS,468.0,Tomas Agustin
+VENTA_0027,2022-01-04,Lenovo,Thinkpad T460,Intel,Windows 10,1488.99,Milagros Jazmin
+VENTA_0028,2022-01-04,Dell,Inspiron 7559,Intel,Windows 10,879.01,Benjamin Ezequiel
+VENTA_0029,2022-01-04,Lenovo,Ideapad 320-15IAP,Intel,Windows 10,419.0,Alan Gabriel
+VENTA_0030,2022-01-05,Lenovo,Ideapad 520-15IKBR,Intel,Windows 10,898.9,Juan Bautista
+VENTA_0031,2022-01-05,Lenovo,Legion Y520-15IKBN,Intel,Windows 10,829.0,Ayelen
+VENTA_0032,2022-01-05,Asus,ZenBook Flip,Intel,Windows 10,1315.0,Juan Segundo
+VENTA_0033,2022-01-05,Lenovo,Yoga 900-13ISK,Intel,Windows 10,1499.0,Bianca Martina
+VENTA_0034,2022-01-05,HP,Probook 650,Intel,Windows 10,1165.0,Maria Del Pilar
+VENTA_0035,2022-01-06,Dell,XPS 13,Intel,Windows 10,1477.0,Candela Jazmin
+VENTA_0036,2022-01-06,Acer,Aspire E5-774G,Intel,Windows 10,629.0,Luz
+VENTA_0037,2022-01-06,Toshiba,Tecra A50-C-218,Intel,Windows 10,1425.0,Agustín
+VENTA_0038,2022-01-06,Lenovo,IdeaPad 320-15IKB,Intel,Windows 10,799.0,Ignacio
+VENTA_0039,2022-01-06,Lenovo,IdeaPad 100S-14IBR,Intel,Windows 10,229.0,Zaira Nicole
+VENTA_0040,2022-01-06,HP,250 G6,Intel,Windows 10,485.0,Jazmin Morena
+VENTA_0041,2022-01-06,HP,ZBook 17,Intel,Windows 7,3949.4,Julieta Agustina
+VENTA_0042,2022-01-06,Lenovo,IdeaPad 320-15IKBN,Intel,No OS,499.0,Valentina Lujan
+VENTA_0043,2022-01-07,Google,Pixelbook (Core,Intel,Chrome OS,1559.0,Santiago Uriel
+VENTA_0044,2022-01-07,Dell,Inspiron 5770,Intel,Windows 10,1396.0,Camila Victoria
+VENTA_0045,2022-01-07,Lenovo,IdeaPad 320-17IKB,Intel,Windows 10,719.0,Elias Gabriel
+VENTA_0046,2022-01-07,MSI,GV62 7RD-1686NL,Intel,Windows 10,1027.74,Bernardita
+VENTA_0047,2022-01-07,Asus,ZenBook UX430UA,Intel,Windows 10,1099.0,Jazmin Abigail
+VENTA_0048,2022-01-07,HP,EliteBook 850,Intel,Windows 7,932.0,Juan Francisco
+VENTA_0049,2022-01-07,Toshiba,Tecra A50-D-11D,Intel,Windows 10,1388.0,Julieta Belen
+VENTA_0050,2022-01-07,Lenovo,IdeaPad 310-15ISK,Intel,Windows 10,569.0,Milagros Belen
+VENTA_0051,2022-01-07,MSI,GS73VR Stealth,Intel,Windows 10,1948.99,Bruno Joaquin
+VENTA_0052,2022-01-08,HP,Pavilion 15-AW003nv,AMD,Windows 10,549.99,Juan Agustin
+VENTA_0053,2022-01-08,Lenovo,Yoga 510-15IKB,Intel,Windows 10,959.0,Florencia
+VENTA_0054,2022-01-08,Apple,MacBook Pro,Intel,macOS,2040.0,Lautaro Ismael
+VENTA_0055,2022-01-08,HP,Spectre 13-V111dx,Intel,Windows 10,1349.0,Candela Agustina
+VENTA_0056,2022-01-08,Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,AMD,Windows 10,699.0,Maximiliano Agustin
+VENTA_0057,2022-01-08,Acer,Aspire 3,Intel,Windows 10,384.0,Santiago Valentin
+VENTA_0058,2022-01-09,MSI,GS73VR Stealth,Intel,Windows 10,2649.0,Agustín Ezequiel
+VENTA_0059,2022-01-09,Lenovo,ThinkPad T460s,Intel,Windows 7,2299.0,Antonella
+VENTA_0060,2022-01-09,Dell,Inspiron 5378,Intel,Windows 10,889.0,Maia
+VENTA_0061,2022-01-09,Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Intel,No OS,398.0,Matias Valentin
+VENTA_0062,2022-01-09,Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Intel,Windows 10,369.0,Francisco Nicolas
+VENTA_0063,2022-01-09,Lenovo,IdeaPad 320-15ISK,Intel,No OS,444.0,Florencia
+VENTA_0064,2022-01-10,Dell,Vostro 3568,Intel,Windows 10,617.9,Gonzalo Joaquin
+VENTA_0065,2022-01-10,HP,Chromebook 13,Intel,Chrome OS,615.0,Juan David
+VENTA_0066,2022-01-10,Acer,Aspire 3,AMD,Windows 10,451.0,Mia
+VENTA_0067,2022-01-11,Lenovo,ThinkPad P70,Intel,Windows 7,2968.0,Mia Antonella
+VENTA_0068,2022-01-11,Acer,Aspire A515-51G,Intel,Windows 10,639.0,Benicio
+VENTA_0069,2022-01-11,Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Intel,Windows 10,720.32,Blas
+VENTA_0070,2022-01-11,Lenovo,ThinkPad X1,Intel,Windows 10,2590.0,Agustin Gabriel
+VENTA_0071,2022-01-12,Toshiba,Portege X20W-D-10V,Intel,Windows 10,1790.0,Tobias
+VENTA_0072,2022-01-12,Dell,Alienware 17,Intel,Windows 10,3588.8,Juan Pablo
+VENTA_0073,2022-01-12,MSI,Leopard GP72M,Intel,Windows 10,1349.0,Sol
+VENTA_0074,2022-01-12,Dell,Inspiron 7577,Intel,Windows 10,1349.0,Maximo Santino
+VENTA_0075,2022-01-13,Dell,XPS 13,Intel,Windows 10,2680.0,Dylan Gabriel
+VENTA_0076,2022-01-13,Asus,VivoBook Pro,Intel,Windows 10,1145.0,Josefina
+VENTA_0077,2022-01-13,Acer,E5 774G,Intel,Windows 10,598.0,Emma
+VENTA_0078,2022-01-13,Dell,Precision 3520,Intel,Windows 10,2338.0,Julieta Jazmin
+VENTA_0079,2022-01-13,Dell,Inspiron 5570,Intel,Windows 10,749.0,Sofia Abril
+VENTA_0080,2022-01-13,Acer,TravelMate B,Intel,Windows 10,485.0,Gonzalo Ezequiel
+VENTA_0081,2022-01-14,Lenovo,IdeaPad 320-15ISK,Intel,Windows 10,409.0,Ludmila Ayelen
+VENTA_0082,2022-01-14,HP,EliteBook 840,Intel,Windows 7,2198.19,Geronimo
+VENTA_0083,2022-01-14,HP,250 G6,Intel,No OS,364.9,Teo
+VENTA_0084,2022-01-14,HP,ProBook 470,Intel,Windows 10,928.0,Giovanni
+VENTA_0085,2022-01-14,Toshiba,Tecra Z50-C-144,Intel,Windows 10,1399.0,Matias Ariel
+VENTA_0086,2022-01-14,Asus,VivoBook Pro,Intel,Windows 10,1350.0,Mia Morena
+VENTA_0087,2022-01-15,Lenovo,ThinkPad 13,Intel,Windows 10,1499.0,Alan
+VENTA_0088,2022-01-15,Lenovo,ThinkPad P51,Intel,Windows 10,1925.0,Martín
+VENTA_0089,2022-01-15,Dell,XPS 13,Intel,Windows 10,1813.0,Franca
+VENTA_0090,2022-01-15,HP,Envy 13-ad009n,Intel,Windows 10,1119.0,Manuela
+VENTA_0091,2022-01-15,HP,Pavilion 15-cb003nv,Intel,Windows 10,899.0,Luca
+VENTA_0092,2022-01-15,MSI,GT62VR 6RD,Intel,Windows 10,1819.0,Francisco Javier
+VENTA_0093,2022-01-15,Lenovo,IdeaPad Y900-17ISK,Intel,Windows 10,3240.0,Francesco
+VENTA_0094,2022-01-15,HP,ProBook 440,Intel,Windows 10,1049.26,Agustina
+VENTA_0095,2022-01-15,Lenovo,ThinkPad E570,Intel,Windows 10,565.0,Lucas
+VENTA_0096,2022-01-16,Dell,Latitude 5580,Intel,Windows 10,1116.99,Lautaro David
+VENTA_0097,2022-01-16,Dell,XPS 13,Intel,Windows 10,899.0,Jazmin Valentina
+VENTA_0098,2022-01-16,Acer,Chromebook 14,Intel,Chrome OS,330.0,Josue
+VENTA_0099,2022-01-16,Dell,Precision 3510,Intel,Windows 10,1369.0,Isaías Benjamin
+VENTA_0100,2022-01-17,Lenovo,IdeaPad 320-17IKB,Intel,Windows 10,649.0,Enzo
+VENTA_0101,2022-01-17,MSI,GE72VR 6RF,Intel,Windows 10,1599.0,Sebastian
+VENTA_0102,2022-01-17,Acer,Swift 3,Intel,Windows 10,770.0,Elias
+VENTA_0103,2022-01-17,Dell,Latitude 5480,Intel,Linux,1099.0,Sebastian Ezequiel
+VENTA_0104,2022-01-17,Lenovo,ThinkPad X1,Intel,Windows 10,2330.0,Leonel Agustin
+VENTA_0105,2022-01-17,HP,EliteBook 850,Intel,Windows 10,1349.0,Jazmin Abigail
+VENTA_0106,2022-01-17,Dell,Inspiron 7577,Intel,Windows 10,999.0,Dana
+VENTA_0107,2022-01-17,Lenovo,Ideapad 520-15IKBR,Intel,Windows 10,898.9,Iara Jazmin
+VENTA_0108,2022-01-18,HP,Zbook 15,Intel,Windows 10,1738.27,Milagros Aylen
+VENTA_0109,2022-01-18,Lenovo,Thinkpad X1,Intel,Windows 10,2099.0,Thiago Ariel
+VENTA_0110,2022-01-18,Dell,XPS 13,Intel,Windows 10,899.0,Jeremias Benjamin
+VENTA_0111,2022-01-18,Lenovo,ThinkPad T560,Intel,Windows 10,1349.0,Valentina Micaela
+VENTA_0112,2022-01-19,HP,ProBook 430,Intel,Windows 10,754.0,Joaquin Ezequiel
+VENTA_0113,2022-01-19,Dell,Precision 7720,Intel,Windows 10,2884.86,Violeta
+VENTA_0114,2022-01-19,Dell,Alienware 17,Intel,Windows 10,3154.0,Laureano
+VENTA_0115,2022-01-19,Dell,XPS 13,Intel,Windows 10,1449.0,Manuel
+VENTA_0116,2022-01-19,HP,ZBook Studio,Intel,Windows 10,2249.0,Benjamin Leonel
+VENTA_0117,2022-01-19,HP,ProBook 450,Intel,Windows 10,716.0,Alexander
+VENTA_0118,2022-01-19,Dell,Latitude E5470,Intel,Windows 10,740.0,Lautaro Gabriel
+VENTA_0119,2022-01-19,Dell,Inspiron 5570,Intel,Linux,1049.0,Gonzalo
+VENTA_0120,2022-01-19,Dell,Inspiron 5770,Intel,Windows 10,1299.0,Marcos Gabriel
+VENTA_0121,2022-01-20,Dell,Inspiron 7567,Intel,Windows 10,1349.0,Luciana Jazmin
+VENTA_0122,2022-01-20,Dell,Inspiron 5370,Intel,Windows 10,818.35,Benjamin Lionel
+VENTA_0123,2022-01-20,HP,17-bs000nv I3,Intel,Windows 10,699.0,Lautaro Sebastián
+VENTA_0124,2022-01-21,HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Intel,No OS,349.0,Juan Daniel
+VENTA_0125,2022-01-21,HP,ProBook 470,Intel,Windows 10,896.0,Morena
+VENTA_0126,2022-01-21,Dell,Latitude 3180,Intel,Windows 10,744.0,Gonzalo Nicolas
+VENTA_0127,2022-01-21,Lenovo,ThinkPad T470p,Intel,Windows 10,1903.0,Luisana
+VENTA_0128,2022-01-21,Dell,Inspiron 3567,Intel,Windows 10,498.9,Dante
+VENTA_0129,2022-01-22,Dell,Inspiron 5570,Intel,Windows 10,855.0,Valentina Lujan
+VENTA_0130,2022-01-22,Lenovo,ThinkPad X1,Intel,Windows 10,2450.0,Nahiara Valentina
+VENTA_0131,2022-01-22,Asus,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Intel,Windows 10,1504.0,Benjamin Andrés
+VENTA_0132,2022-01-22,HP,Stream 14-AX040wm,Intel,Windows 10,229.0,Rodrigo Benjamin
+VENTA_0133,2022-01-22,Apple,MacBook Air,Intel,Mac OS X,959.0,Bianca Martina
+VENTA_0134,2022-01-22,Acer,Chromebook CB5-571-C1DZ,Intel,Chrome OS,359.0,Mia Agustina
+VENTA_0135,2022-01-22,HP,250 G6,Intel,Windows 10,539.0,Mia Antonella
+VENTA_0136,2022-01-22,Dell,Inspiron 5567,Intel,Windows 10,638.8,Alexis Sebastian
+VENTA_0137,2022-01-22,Lenovo,Thinkpad T560,Intel,Windows 10,1529.0,Morena Lujan
+VENTA_0138,2022-01-23,Dell,Vostro 5568,Intel,Windows 10,795.0,Alma Belen
+VENTA_0139,2022-01-23,Dell,Latitude E5470,Intel,Windows 10,740.0,Zaira Jazmin
+VENTA_0140,2022-01-23,Asus,ZenBook Flip,Intel,Windows 10,1499.0,Bautista Lionel
+VENTA_0141,2022-01-23,Dell,Inspiron 7378,Intel,Windows 10,1199.0,Joaquín Alejandro
+VENTA_0142,2022-01-23,Dell,Inspiron 3552,Intel,Windows 10,379.0,Dante
+VENTA_0143,2022-01-23,Dell,Precision 3520,Intel,Windows 10,1778.0,Alexis
+VENTA_0144,2022-01-23,Lenovo,IdeaPad 320-17IKB,Intel,Windows 10,649.0,Bautista Nicolas
+VENTA_0145,2022-01-23,HP,ProBook 450,Intel,Windows 10,839.0,Zoe
+VENTA_0146,2022-01-23,Asus,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,Intel,Windows 10,949.0,Axel Uriel
+VENTA_0147,2022-01-24,Dell,Vostro 3559,Intel,Windows 7,769.15,Rocio Guadalupe
+VENTA_0148,2022-01-24,Google,Pixelbook (Core,Intel,Chrome OS,1559.0,Valentina Belén
+VENTA_0149,2022-01-24,HP,ProBook 650,Intel,Windows 10,1124.0,Julia
+VENTA_0150,2022-01-25,Razer,Blade Stealth,Intel,Windows 10,1029.0,Valentino Gabriel
+VENTA_0151,2022-01-25,HP,Zbook 17,Intel,Windows 7,4389.0,Jano
+VENTA_0152,2022-01-25,Dell,XPS 13,Intel,Linux,1099.0,Gonzalo Sebastián
+VENTA_0153,2022-01-25,MSI,GS63VR 7RF,Intel,Windows 10,2094.48,Pia
+VENTA_0154,2022-01-25,HP,ZBook 15,Intel,Windows 7,2229.0,Mateo Nicolas
+VENTA_0155,2022-01-25,Asus,VivoBook S14,Intel,Windows 10,509.0,Cristian
+VENTA_0156,2022-01-25,Lenovo,Legion Y520-15IKBN,Intel,Windows 10,829.0,Felipe Agustin
+VENTA_0157,2022-01-25,Lenovo,B51-80 (i5-6200U/8GB/1008GB/Radeon,Intel,Windows 10,788.49,Chiara
+VENTA_0158,2022-01-25,Lenovo,Yoga 720-15IKB,Intel,Windows 10,1899.0,Jano
+VENTA_0159,2022-01-26,Lenovo,ThinkPad E580,Intel,Windows 10,1229.56,Santino Gabriel
+VENTA_0160,2022-01-26,Samsung,Notebook 9,Intel,Windows 10,1499.0,Facundo Daniel
+VENTA_0161,2022-01-26,Toshiba,Satellite Pro,Intel,Windows 10,498.0,Sofia Magali
+VENTA_0162,2022-01-26,Acer,Aspire ES1-533,Intel,Windows 10,380.0,Justina
+VENTA_0163,2022-01-26,Dell,Inspiron 3567,Intel,Windows 10,439.0,Francisco Daniel
+VENTA_0164,2022-01-26,Asus,Vivobook Max,Intel,Windows 10,581.9,Solange
+VENTA_0165,2022-01-26,Dell,Latitude 5580,Intel,Windows 10,825.0,Alexander Gabriel
+VENTA_0166,2022-01-26,Acer,Aspire E5-576G,Intel,Windows 10,616.0,Ismael
+VENTA_0167,2022-01-26,Asus,X541NA (N3350/4GB/1TB/FHD/W10),Intel,Windows 10,344.0,Ramiro Joaquin
+VENTA_0168,2022-01-27,Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Intel,Windows 10,399.0,Angela
+VENTA_0169,2022-01-27,HP,EliteBook 850,Intel,Windows 10,1900.0,Irina
+VENTA_0170,2022-01-27,HP,ProBook 450,Intel,Windows 10,900.0,Valentino Ezequiel
+VENTA_0171,2022-01-27,HP,ProBook 430,Intel,Windows 10,726.0,Ludmila Aylen
+VENTA_0172,2022-01-27,LG,Gram 14Z970,Intel,Windows 10,1899.0,Isabella
+VENTA_0173,2022-01-27,Acer,Chromebook 14,Intel,Chrome OS,330.0,Chiara
+VENTA_0174,2022-01-28,Lenovo,N42-20 Chromebook,Intel,Chrome OS,325.0,Delfina
+VENTA_0175,2022-01-28,Dell,Inspiron 5770,Intel,Windows 10,1142.0,Martina Guadalupe
+VENTA_0176,2022-01-28,Dell,Inspiron 5579,Intel,Windows 10,819.0,Martina
+VENTA_0177,2022-01-28,Dell,XPS 13,Intel,Windows 10,1649.0,Francisco
+VENTA_0178,2022-01-28,Dell,Inspiron 7567,Intel,Windows 10,899.0,Antonella Jazmin
+VENTA_0179,2022-01-29,Dell,Inspiron 7378,Intel,Windows 10,1299.0,Patricio
+VENTA_0180,2022-01-29,HP,EliteBook 850,Intel,Windows 10,1389.0,Santiago Jose
+VENTA_0181,2022-01-29,HP,Envy 13-ad009n,Intel,Windows 10,1119.0,Benjamin Daniel
+VENTA_0182,2022-01-29,Lenovo,ThinkPad T470s,Intel,Windows 10,2299.0,Dylan
+VENTA_0183,2022-01-29,MSI,GV62M 7RD,Intel,Windows 10,997.9,Dylan
+VENTA_0184,2022-01-30,Lenovo,Yoga 500-15ISK,Intel,Windows 10,847.0,Thiago Lautaro
+VENTA_0185,2022-01-30,Dell,Latitude 5580,Intel,Windows 10,959.0,Martiniano
+VENTA_0186,2022-01-30,HP,EliteBook 850,Intel,Windows 10,1219.0,Rocio Guadalupe
+VENTA_0187,2022-01-30,Acer,Aspire 5,Intel,Windows 10,689.0,Lucas Agustin
+VENTA_0188,2022-01-30,HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Intel,Windows 10,764.0,Lucas Joaquin
+VENTA_0189,2022-01-30,HP,15-BW091ND (A9-9420/6GB/1TB,AMD,Windows 10,650.0,Ramiro Ezequiel
